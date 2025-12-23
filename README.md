@@ -17,9 +17,7 @@ In general, linear algebra is the foundational mathehmatical framework that powe
 
 | Table of Contents | Description |
 | ------------------ | ---------------------- |
-| Introduction to Vectors |
-1. Vectors and Matrices
-2. Lengths and Dot Products |
+| Introduction to Vectors | 1. Vectors and Matrices 2. Lengths and Dot Products |
 | Solving Linear Algebra | 
 1. Linear Equations
 2. The Idea of Elimination
